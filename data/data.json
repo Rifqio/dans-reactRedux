@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "nama": "Abdul",
+      "kelas": "XI B",
+      "gender": "Laki Laki",
+      "alamat": "Bandung",
+      "jurusan": "IPA",
+      "certification": null,
+      "requestId": "aNKxhXPoqQMUtACE4aHs_",
+      "signal": {}
+    },
+    {
+      "id": 2,
+      "nama": "Adi",
+      "kelas": "XI B",
+      "gender": "Laki Laki",
+      "alamat": "Jakarta",
+      "jurusan": "IPA",
+      "certification": [
+        "Cisco - CCNA",
+        "Google Cloud Platform"
+      ],
+      "requestId": "BjKWTLwYm-7lANPp67mq4",
+      "signal": {}
+    },
+    {
+      "id": 3,
+      "nama": "Diana",
+      "kelas": "XII B",
+      "gender": "Perempuan",
+      "alamat": "Jakarta",
+      "jurusan": "IPA",
+      "certification": null
+    }
+  ]
+}
